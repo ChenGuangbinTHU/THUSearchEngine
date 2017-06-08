@@ -2,8 +2,8 @@
 A search engine for news.tsinghua.edu.cn
 
 ## lib module
-java 1.8.0\n
-lucene 3.5\n
+java 1.8.0  
+lucene 3.5  
 gson 2.8.1\n
 pdfbox-2.0.6\n
 jsoup 1.10.2\n
